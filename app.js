@@ -11,7 +11,7 @@ const main = mel(`<main></main>`),
   span = mel(`<span class="span"></span>`),
   icon = mel(
     `<span>
-      <img src="http://openweathermap.org/img/wn/01d.png" alt="weather-icon" />
+      <img src="https://openweathermap.org/img/wn/01d.png" alt="weather-icon" />
     </span>`
   ),
   searchBox = mel(

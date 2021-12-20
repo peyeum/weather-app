@@ -111,7 +111,7 @@ const getData = async (lang, area) => {
   temp.textContent = toCelcius(tp, "kelvin");
   clock(time);
   tempDet.firstElementChild.textContent = weatherDesc;
-  icon.firstElementChild.src = `http://openweathermap.org/img/wn/${ic}.png`;
+  icon.firstElementChild.src = `https://openweathermap.org/img/wn/${ic}.png`;
   tempDet.lastElementChild.lastElementChild.textContent = toCelcius(
     tpfl,
     "kelvin"

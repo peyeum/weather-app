@@ -1,0 +1,10 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Basic Weather App",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Flyn",
+  "license": "ISC"
+}
